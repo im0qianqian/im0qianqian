@@ -52,6 +52,6 @@ Hi there, I'm **Qian Qian**, a **Codeforces Candidate Master** (Ranked Top 3% Wo
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-**Show some ❤️ by starring some of the repositories!**
-
 ![im0qianqian's github stats](https://github-readme-stats.vercel.app/api?username=im0qianqian&show_icons=true&hide_border=true)
+
+**Show some ❤️ by starring some of the repositories!**
